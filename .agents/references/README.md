@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 202 / repository commit 19
-Subject: [openai-agents-python] Add support for JS version of openai-agents
-Focus: [openai-agents-python], Add, support, for, version
+Sequence: 305 / repository commit 20
+Subject: [openai-agents-python] Add lightweight framework for multi-agent workflows and voice agents
+Focus: [openai-agents-python], Add, lightweight, framework, for
