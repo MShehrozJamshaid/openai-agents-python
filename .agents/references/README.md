@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 325 / repository commit 27
-Subject: [openai-agents-python] Add lightweight framework for multi-agent workflows and voice agents
-Focus: [openai-agents-python], Add, lightweight, framework, for
+Sequence: 337 / repository commit 28
+Subject: Implement Python SDK for OpenAI Agents
+Focus: Implement, Python, SDK, for, OpenAI
