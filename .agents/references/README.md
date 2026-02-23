@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 400 / repository commit 34
-Subject: Implement Python SDK for OpenAI Agents
-Focus: Implement, Python, SDK, for, OpenAI
+Sequence: 401 / repository commit 35
+Subject: [openai-agents-python] Implement Python SDK for OpenAI Agents
+Focus: [openai-agents-python], Implement, Python, SDK, for
