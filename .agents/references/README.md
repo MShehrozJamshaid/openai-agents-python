@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 569 / repository commit 43
-Subject: Add support for JS version of openai-agents
-Focus: Add, support, for, version, openai-agents
+Sequence: 581 / repository commit 44
+Subject: [openai-agents-python] Add support for JS version of openai-agents
+Focus: [openai-agents-python], Add, support, for, version
