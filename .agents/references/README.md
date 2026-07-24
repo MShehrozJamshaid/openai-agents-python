@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1300 / repository commit 79
-Subject: Add lightweight framework for multi-agent workflows and voice agents
-Focus: Add, lightweight, framework, for, multi-agent
+Sequence: 1301 / repository commit 80
+Subject: Fix agents not coordinating correctly in multi-agent
+Focus: Fix, agents, not, coordinating, correctly
