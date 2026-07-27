@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1301 / repository commit 80
-Subject: Fix agents not coordinating correctly in multi-agent
-Focus: Fix, agents, not, coordinating, correctly
+Sequence: 1327 / repository commit 81
+Subject: Add support for JS version of openai-agents
+Focus: Add, support, for, version, openai-agents
