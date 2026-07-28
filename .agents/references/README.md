@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1337 / repository commit 83
-Subject: Fix agents not coordinating correctly in multi-agent
-Focus: Fix, agents, not, coordinating, correctly
+Sequence: 1338 / repository commit 84
+Subject: Add lightweight framework for multi-agent workflows and voice agents
+Focus: Add, lightweight, framework, for, multi-agent
