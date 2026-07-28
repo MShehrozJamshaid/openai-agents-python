@@ -1,4 +1,4 @@
 # Synthetic contribution-history anchor
-Sequence: 1328 / repository commit 82
-Subject: Implement Python SDK for OpenAI Agents
-Focus: Implement, Python, SDK, for, OpenAI
+Sequence: 1337 / repository commit 83
+Subject: Fix agents not coordinating correctly in multi-agent
+Focus: Fix, agents, not, coordinating, correctly
